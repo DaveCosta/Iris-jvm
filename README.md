@@ -1,2 +1,2 @@
 # Iris-jvm
-A java version of the repository Iris
+A java version of the Iris repository.
