@@ -1,3 +1,6 @@
+# Iris-jvm
+A java version of the Iris repository.
+
 ## Synopsis
 
 This is a set of examples that demonstrate the use of Apache Spark on the Iris Plants Database from R.A. Fisher. This is the java version of the GitHub DaveCosta/iris.
@@ -25,4 +28,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
