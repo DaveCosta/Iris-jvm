@@ -1,5 +1,5 @@
 # Iris-jvm
-A java version of the Iris repository.
+The java version of the Apache Iris Project.
 
 ## Synopsis
 
